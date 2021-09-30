@@ -1,0 +1,142 @@
+[
+    {
+        "name": "McDonalds",
+        "address": "Mangalore",
+        "priceforTwo": "Rs 1000",
+        "rating": "4",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "KFC",
+        "address": "Manipal",
+        "priceforTwo": "Rs 800",
+        "rating": "5",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Burger King",
+        "address": "Udupi",
+        "priceforTwo": "Rs 900",
+        "rating": "4",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Snack Shack",
+        "address": "Manipal",
+        "priceforTwo": "Rs 400",
+        "rating": "3",
+        "vegOrnonveg": "veg"
+    },
+    {
+        "name": "Swadist",
+        "address": "Udupi",
+        "priceforTwo": "Rs 700",
+        "rating": "4",
+        "vegOrnonveg": "veg"
+    },
+    {
+        "name": "Dollops",
+        "address": "Manipal",
+        "priceforTwo": "Rs 800",
+        "rating": "5",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Grub Monkies",
+        "address": "Manipal",
+        "priceforTwo": "Rs 500",
+        "rating": "5",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Bacchus Inn",
+        "address": "Manipal",
+        "priceforTwo": "Rs 1000",
+        "rating": "4",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Naturals Icecream",
+        "address": "Manipal",
+        "priceforTwo": "Rs 200",
+        "rating": "5",
+        "vegOrnonveg": "veg"
+    },
+    {
+        "name": "Pizza Hut",
+        "address": "Udupi",
+        "priceforTwo": "Rs 1000",
+        "rating": "3",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Crumbz",
+        "address": "Manipal",
+        "priceforTwo": "Rs 400",
+        "rating": "3",
+        "vegOrnonveg": "veg"
+    },
+    {
+        "name": "Hakuna Matata",
+        "address": "Manipal",
+        "priceforTwo": "Rs 700",
+        "rating": "5",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Coast Asia",
+        "address": "Udupi",
+        "priceforTwo": "Rs 700",
+        "rating": "3",
+        "vegOrnonveg": "veg"
+    },
+     {
+        "name": "Down the Road",
+        "address": "Manipal",
+        "priceforTwo": "Rs 900",
+        "rating": "4",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Basil Cafe",
+        "address": "Manipal",
+        "priceforTwo": "Rs 400",
+        "rating": "5",
+        "vegOrnonveg": "veg"
+    },
+    {
+        "name": "Madhuvan Veg",
+        "address": "Udupi",
+        "priceforTwo": "Rs 700",
+        "rating": "3",
+        "vegOrnonveg": "veg"
+    },
+    {
+        "name": "Arabian Nights",
+        "address": "Manipal",
+        "priceforTwo": "Rs 100",
+        "rating": "2",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Makazai",
+        "address": "Manipal",
+        "priceforTwo": "Rs 600",
+        "rating": "5",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Cloud Nine",
+        "address": "Manipal",
+        "priceforTwo": "Rs 800",
+        "rating": "5",
+        "vegOrnonveg": "nonveg"
+    },
+    {
+        "name": "Barbeque Nation",
+        "address": "Manipal",
+        "priceforTwo": "Rs 700",
+        "rating": "4",
+        "vegOrnonveg": "nonveg"
+    }
+]
